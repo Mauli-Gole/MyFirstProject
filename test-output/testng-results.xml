@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35134" started-at="2021-08-06T06:25:16Z" finished-at="2021-08-06T06:25:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35134" started-at="2021-08-06T06:25:16Z" finished-at="2021-08-06T06:25:51Z">
+      <class name="com.TestPage.RegistrationTestPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="setup" is-config="true" duration-ms="9909" started-at="2021-08-06T11:55:16Z" finished-at="2021-08-06T11:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="registerTest" duration-ms="3215" started-at="2021-08-06T11:55:26Z" data-provider="excelData" finished-at="2021-08-06T11:55:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lastname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Telephone]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ConfirmPassword]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NewLetter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="setup" is-config="true" duration-ms="6564" started-at="2021-08-06T11:55:29Z" finished-at="2021-08-06T11:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="registerTest" duration-ms="3032" started-at="2021-08-06T11:55:36Z" data-provider="excelData" finished-at="2021-08-06T11:55:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mauli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gole]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mauli@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8652456525]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="setup" is-config="true" duration-ms="8594" started-at="2021-08-06T11:55:39Z" finished-at="2021-08-06T11:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registerTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestPage.RegistrationTestPage@1fffcd7]" name="registerTest" duration-ms="3514" started-at="2021-08-06T11:55:48Z" data-provider="excelData" finished-at="2021-08-06T11:55:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sayali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kawale]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sayali@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9875451254]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTest -->
+      </class> <!-- com.TestPage.RegistrationTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
